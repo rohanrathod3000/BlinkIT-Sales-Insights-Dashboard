@@ -4,6 +4,12 @@ This project features a fully interactive **Excel Dashboard** designed to analyz
 
 Built entirely in Microsoft Excel using **Pivot Tables**, **Slicers**, and **Conditional Formatting**, this dashboard provides clean, dynamic visuals suitable for business review and decision-making.
 
+__________________________________________________________________________________________________________________________________
+
+## 🖼 Dashboard Preview
+
+![Screenshot 2025-07-10 023919](https://github.com/user-attachments/assets/775e7518-adb8-4b2d-b1f1-df9652a10af7)
+
 __________________________________________________________________________________________________________________________
 
 ## 🔍 Project Highlights
@@ -55,14 +61,6 @@ ________________________________________________________________________________
 - Turning raw data into **actionable insights**  
 - Designing for **clarity, usability, and storytelling**  
 - Structuring files and projects for sharing on GitHub & LinkedIn
-
-__________________________________________________________________________________________________________________________________
-
-## 🖼 Dashboard Preview
-
-![Screenshot 2025-07-10 023919](https://github.com/user-attachments/assets/775e7518-adb8-4b2d-b1f1-df9652a10af7)
-
-
 __________________________________________________________________________________________________________________________________
 
 ## 🏷️ Tags
